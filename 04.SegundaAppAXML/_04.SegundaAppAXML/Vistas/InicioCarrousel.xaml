@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_04.SegundaAppAXML.Vistas.InicioCarrousel">
+
+  <ContentPage Title="Tux Ejecutivo">
+    <Image Source="http://3.bp.blogspot.com/-P_cJ5BSx9A8/T4rvvWfTToI/AAAAAAAAAbo/716pM6gxHOc/s1600/tux6.png"></Image>
+  </ContentPage>
+  <ContentPage Title="Tux Batman">
+    <Image Source="http://www.gifs-animados.es/gifs-imagenes/t/tux/gifs-animados-tux-971914.gif"></Image>
+  </ContentPage>
+  <ContentPage Title="Tux Rambo">
+    <Image Source="https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/_UqUwVPikChs/R-C7THbATKI/AAAAAAAAC90/C-R3ioFvlmQ/s320/santang-rambo-tux-2036.png"></Image>
+  </ContentPage>
+</CarouselPage>
